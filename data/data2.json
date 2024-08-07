@@ -1,0 +1,26 @@
+[
+    {
+        "image2": "icons/img7.svg",
+        "name1": "Phones"
+    },
+    {
+        "image2": "icons/img8.svg",
+        "name1": "Computers"
+    },
+    {
+        "image2": "icons/img9.svg",
+        "name1": "SmartWatch"
+    },
+    {
+        "image2": "icons/img10.svg",
+        "name1": "HeadPhones"
+    },
+    {
+        "image2": "icons/img11.svg",
+        "name1": "Gaming"
+    },
+    {
+        "image2": "icons/img12.svg",
+        "name1": "Camera"
+    }
+]
